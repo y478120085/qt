@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin filename="tech.microcore.demo.themecharts" id="tech.microcore.demo.themecharts">
+    <ExtDataSet>
+        <ExtData extPlugin="tech.microcore.mainwin.core" factory="false" id="tech.microcore.mainwin.core.centralview" activated="false" plugin="tech.microcore.demo.themecharts">
+            <centralview title="tr('Charts')" factory="false" sceneName="charts" activated="true" id="tech.microcore.demo.themecharts.showchartsview" icon="combo_chart-32.png"/>
+        </ExtData>
+    </ExtDataSet>
+</Plugin>

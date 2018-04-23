@@ -1,0 +1,12 @@
+symbolic:tech.microcore.demo.themecharts
+version:1.0.0
+compatVersion:1.0.0
+activation:eager
+company:
+author:
+copyright:
+license:
+describe:
+category:
+website:
+dependency:tech.microcore.mainwin.core,1.0.0

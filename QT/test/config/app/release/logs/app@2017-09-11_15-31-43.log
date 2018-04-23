@@ -1,0 +1,132 @@
+[15:31:43-741][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[15:31:43-741][WARN] libpng warning: iCCP: cHRM chunk does not match sRGB
+[15:31:43-773][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[15:31:43-786][DEBUG] ExtensionStorage > dbpath: "F:/QxPlugin/release/config/app/extension.dat" "F:/QxPlugin/release/config/app/extension.dat"
+[15:31:45-412][DEBUG] Framework Configure: 
+ |-> plugin dir:            "F:/QxPlugin/release/plugins" 
+ |-> language dir:          "F:/QxPlugin/release/languages" 
+ |-> config dir:            "F:/QxPlugin/release/config/app" 
+ |-> language:              "zh_CN" 
+ |-> loadEnabledPluginOnly: false 
+ |-> watchingPluginDir:     true
+[15:31:45-413][DEBUG] [PluginManager] > installPlugins:
+[15:31:45-415][DEBUG]  |-> "tech.microcore.config.configureadmin"
+[15:31:45-415][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.configureadmin/tech.microcore.config.configureadmin.dll"
+[15:31:45-419][DEBUG]      |-> "tech.microcore.config.configureadmin" : 0
+[15:31:45-420][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 2 -> 4
+[15:31:45-420][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.configureadmin"
+[15:31:45-962][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 2 -> 4
+[15:31:45-962][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 1 -> 2
+[15:31:45-962][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 1 -> 2
+[15:31:45-962][DEBUG]  |-> "tech.microcore.config.dynamiclayoutedit"
+[15:31:45-963][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.dynamiclayoutedit/tech.microcore.config.dynamiclayoutedit.dll"
+[15:31:45-965][DEBUG]      |-> "tech.microcore.config.dynamiclayoutedit" : 0
+[15:31:45-966][DEBUG] PLUGIN: "tech.microcore.config.dynamiclayoutedit" - state: 1 -> 2
+[15:31:45-966][DEBUG] PluginChanged: "tech.microcore.config.dynamiclayoutedit"  - state: 1 -> 2
+[15:31:45-966][DEBUG]  |-> "tech.microcore.config.general"
+[15:31:45-966][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.general/tech.microcore.config.general.dll"
+[15:31:45-969][DEBUG]      |-> "tech.microcore.config.general" : 0
+[15:31:45-969][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 1 -> 2
+[15:31:45-969][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 1 -> 2
+[15:31:45-969][DEBUG]  |-> "tech.microcore.config.optiondialog"
+[15:31:45-970][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.optiondialog/tech.microcore.config.optiondialog.dll"
+[15:31:45-974][DEBUG]      |-> "tech.microcore.config.optiondialog" : 0
+[15:31:45-974][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 1 -> 2
+[15:31:45-974][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 1 -> 2
+[15:31:45-974][DEBUG]  |-> "tech.microcore.config.pluginmanager"
+[15:31:45-975][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.pluginmanager/tech.microcore.config.pluginmanager.dll"
+[15:31:45-978][DEBUG]      |-> "tech.microcore.config.pluginmanager" : 0
+[15:31:45-979][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 1 -> 2
+[15:31:45-979][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 1 -> 2
+[15:31:45-979][DEBUG]  |-> "tech.microcore.config.scenemanager"
+[15:31:45-979][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.scenemanager/tech.microcore.config.scenemanager.dll"
+[15:31:45-983][DEBUG]      |-> "tech.microcore.config.scenemanager" : 0
+[15:31:45-983][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 1 -> 2
+[15:31:45-983][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 1 -> 2
+[15:31:45-983][DEBUG]  |-> "tech.microcore.config.shortcutmanager"
+[15:31:45-984][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.config.shortcutmanager/tech.microcore.config.shortcutmanager.dll"
+[15:31:45-985][DEBUG]      |-> "tech.microcore.config.shortcutmanager" : 0
+[15:31:45-985][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 1 -> 2
+[15:31:45-985][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 1 -> 2
+[15:31:45-985][DEBUG]  |-> "tech.microcore.demo.clock"
+[15:31:45-986][DEBUG]  |-> "tech.microcore.demo.demowindow"
+[15:31:45-986][DEBUG]  |-> "tech.microcore.demo.mediaplayer"
+[15:31:45-986][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.demo.mediaplayer/tech.microcore.demo.mediaplayer.dll"
+[15:31:45-989][DEBUG]      |-> "tech.microcore.demo.mediaplayer" : 0
+[15:31:45-989][DEBUG] PLUGIN: "tech.microcore.demo.mediaplayer" - state: 1 -> 2
+[15:31:45-989][DEBUG] PluginChanged: "tech.microcore.demo.mediaplayer"  - state: 1 -> 2
+[15:31:45-989][DEBUG]  |-> "tech.microcore.demo.themecharts"
+[15:31:45-989][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.demo.themecharts/tech.microcore.demo.themecharts.dll"
+[15:31:45-992][DEBUG]      |-> "tech.microcore.demo.themecharts" : 0
+[15:31:45-992][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 1 -> 2
+[15:31:45-992][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 1 -> 2
+[15:31:45-993][DEBUG]  |-> "tech.microcore.dstyle.scrollwidget"
+[15:31:45-993][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.dstyle.scrollwidget/tech.microcore.dstyle.scrollwidget.dll"
+[15:31:45-994][DEBUG]      |-> "tech.microcore.dstyle.scrollwidget" : 0
+[15:31:45-994][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 1 -> 2
+[15:31:45-994][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 1 -> 2
+[15:31:45-994][DEBUG]  |-> "tech.microcore.dstyle.tabwidget"
+[15:31:45-994][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.dstyle.tabwidget/tech.microcore.dstyle.tabwidget.dll"
+[15:31:45-995][DEBUG]      |-> "tech.microcore.dstyle.tabwidget" : 0
+[15:31:45-995][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 1 -> 2
+[15:31:45-995][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 1 -> 2
+[15:31:45-995][DEBUG]  |-> "tech.microcore.dstyle.toolboxwidget"
+[15:31:45-995][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.dstyle.toolboxwidget/tech.microcore.dstyle.toolboxwidget.dll"
+[15:31:45-996][DEBUG]      |-> "tech.microcore.dstyle.toolboxwidget" : 0
+[15:31:45-996][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 1 -> 2
+[15:31:45-997][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 1 -> 2
+[15:31:45-997][DEBUG]  |-> "tech.microcore.mainwin.core"
+[15:31:45-997][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.mainwin.core/tech.microcore.mainwin.core.dll"
+[15:31:45-999][DEBUG]      |-> "tech.microcore.mainwin.core" : 0
+[15:31:45-999][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 1 -> 2
+[15:31:45-999][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 1 -> 2
+[15:31:45-999][DEBUG]  |-> "tech.microcore.mainwin.desktop"
+[15:31:45-999][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.mainwin.desktop/tech.microcore.mainwin.desktop.dll"
+[15:31:46-003][DEBUG]      |-> "tech.microcore.mainwin.desktop" : 0
+[15:31:46-003][DEBUG] PLUGIN: "tech.microcore.mainwin.desktop" - state: 1 -> 2
+[15:31:46-003][DEBUG] PluginChanged: "tech.microcore.mainwin.desktop"  - state: 1 -> 2
+[15:31:46-003][DEBUG]  |-> "tech.microcore.mainwin.ribbon"
+[15:31:46-003][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.mainwin.ribbon/tech.microcore.mainwin.ribbon.dll"
+[15:31:46-129][DEBUG]      |-> "tech.microcore.mainwin.ribbon" : 0
+[15:31:46-129][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 1 -> 2
+[15:31:46-129][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 1 -> 2
+[15:31:46-129][DEBUG]  |-> "tech.microcore.service.eventadmin"
+[15:31:46-130][DEBUG]    |-> "F:/QxPlugin/release/plugins/tech.microcore.service.eventadmin/tech.microcore.service.eventadmin.dll"
+[15:31:46-131][DEBUG]      |-> "tech.microcore.service.eventadmin" : 0
+[15:31:46-131][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 2 -> 4
+[15:31:46-131][DEBUG] [ "Resolved  " ]	 "tech.microcore.service.eventadmin"
+[15:31:46-136][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.configureadmin/extension.xml"
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.dynamiclayoutedit/extension.xml"
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.general/extension.xml"
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.optiondialog/extension.xml"
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.pluginmanager/extension.xml"
+[15:31:46-142][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.scenemanager/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.config.shortcutmanager/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.demo.mediaplayer/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.demo.themecharts/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.dstyle.scrollwidget/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.dstyle.tabwidget/extension.xml"
+[15:31:46-143][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.dstyle.toolboxwidget/extension.xml"
+[15:31:46-144][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.mainwin.core/extension.xml"
+[15:31:46-144][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.mainwin.desktop/extension.xml"
+[15:31:46-144][DEBUG] "Invalid extension file format, File: F:/QxPlugin/release/plugins/tech.microcore.mainwin.core/extension.xml > Line: 54, Column: 23, Error: tag mismatch"
+[15:31:46-148][DEBUG] ExtensionFileParseTask::parseExtensionFile > "F:/QxPlugin/release/plugins/tech.microcore.mainwin.ribbon/extension.xml"
+[15:31:46-154][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.configureadmin"
+[15:31:46-513][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.dynamiclayoutedit"
+[15:31:46-821][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.general"
+[15:31:47-116][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.scenemanager"
+[15:31:47-477][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.pluginmanager"
+[15:31:47-772][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.optiondialog"
+[15:31:48-300][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.demo.mediaplayer"
+[15:31:48-532][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.demo.themecharts"
+[15:31:48-840][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.shortcutmanager"
+[15:31:49-056][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.scrollwidget"
+[15:31:49-489][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.toolboxwidget"
+[15:31:49-912][DEBUG] [DB] > writeExtensionPlugin: ""
+[15:31:49-942][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 2 -> 4
+[15:31:49-943][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 2 -> 4
+[15:31:49-943][DEBUG] [ "Resolved  " ]	 "tech.microcore.mainwin.core"
+[15:31:49-957][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.mainwin.ribbon"
+[15:31:50-492][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.tabwidget"
+[15:31:50-806][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.mainwin.desktop"

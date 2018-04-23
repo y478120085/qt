@@ -1,0 +1,519 @@
+[17:32:48-558][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[17:32:48-558][WARN] libpng warning: iCCP: cHRM chunk does not match sRGB
+[17:32:48-598][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[17:32:48-612][DEBUG] ExtensionStorage > dbpath: "G:/Python3/layout/test/config/app/release/config/app/extension.dat" "G:/Python3/layout/test/config/app/release/config/app/extension.dat"
+[17:32:48-890][DEBUG] Framework Configure: 
+ |-> plugin dir:            "G:/Python3/layout/test/config/app/release/plugins" 
+ |-> language dir:          "G:/Python3/layout/test/config/app/release/languages" 
+ |-> config dir:            "G:/Python3/layout/test/config/app/release/config/app" 
+ |-> language:              "zh_CN" 
+ |-> loadEnabledPluginOnly: false 
+ |-> watchingPluginDir:     true
+[17:32:48-892][DEBUG] [PluginManager] > installPlugins:
+[17:32:48-895][DEBUG]  |-> "tech.microcore.config.configureadmin"
+[17:32:48-896][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.configureadmin/tech.microcore.config.configureadmin.dll"
+[17:32:48-900][DEBUG]      |-> "tech.microcore.config.configureadmin" : 0
+[17:32:48-901][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 2 -> 4
+[17:32:48-901][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.configureadmin"
+[17:32:49-619][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 2 -> 4
+[17:32:49-619][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 1 -> 2
+[17:32:49-619][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 1 -> 2
+[17:32:49-619][DEBUG]  |-> "tech.microcore.config.dynamiclayoutedit"
+[17:32:49-619][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.dynamiclayoutedit/tech.microcore.config.dynamiclayoutedit.dll"
+[17:32:49-620][DEBUG]      |-> "tech.microcore.config.dynamiclayoutedit" : 0
+[17:32:49-621][DEBUG] PLUGIN: "tech.microcore.config.dynamiclayoutedit" - state: 1 -> 2
+[17:32:49-621][DEBUG] PluginChanged: "tech.microcore.config.dynamiclayoutedit"  - state: 1 -> 2
+[17:32:49-621][DEBUG]  |-> "tech.microcore.config.general"
+[17:32:49-621][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.general/tech.microcore.config.general.dll"
+[17:32:49-622][DEBUG]      |-> "tech.microcore.config.general" : 0
+[17:32:49-622][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 1 -> 2
+[17:32:49-622][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 1 -> 2
+[17:32:49-622][DEBUG]  |-> "tech.microcore.config.optiondialog"
+[17:32:49-622][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.optiondialog/tech.microcore.config.optiondialog.dll"
+[17:32:49-624][DEBUG]      |-> "tech.microcore.config.optiondialog" : 0
+[17:32:49-624][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 1 -> 2
+[17:32:49-624][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 1 -> 2
+[17:32:49-624][DEBUG]  |-> "tech.microcore.config.pluginmanager"
+[17:32:49-625][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.pluginmanager/tech.microcore.config.pluginmanager.dll"
+[17:32:49-626][DEBUG]      |-> "tech.microcore.config.pluginmanager" : 0
+[17:32:49-626][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 1 -> 2
+[17:32:49-626][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 1 -> 2
+[17:32:49-626][DEBUG]  |-> "tech.microcore.config.scenemanager"
+[17:32:49-626][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.scenemanager/tech.microcore.config.scenemanager.dll"
+[17:32:49-628][DEBUG]      |-> "tech.microcore.config.scenemanager" : 0
+[17:32:49-628][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 1 -> 2
+[17:32:49-628][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 1 -> 2
+[17:32:49-628][DEBUG]  |-> "tech.microcore.config.shortcutmanager"
+[17:32:49-628][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.shortcutmanager/tech.microcore.config.shortcutmanager.dll"
+[17:32:49-629][DEBUG]      |-> "tech.microcore.config.shortcutmanager" : 0
+[17:32:49-629][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 1 -> 2
+[17:32:49-629][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 1 -> 2
+[17:32:49-629][DEBUG]  |-> "tech.microcore.demo.clock"
+[17:32:49-629][DEBUG]  |-> "tech.microcore.demo.demowindow"
+[17:32:49-629][DEBUG]  |-> "tech.microcore.demo.themecharts"
+[17:32:49-630][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.demo.themecharts/tech.microcore.demo.themecharts.dll"
+[17:32:49-633][DEBUG]      |-> "tech.microcore.demo.themecharts" : 0
+[17:32:49-633][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 1 -> 2
+[17:32:49-633][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 1 -> 2
+[17:32:49-633][DEBUG]  |-> "tech.microcore.dstyle.scrollwidget"
+[17:32:49-633][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.scrollwidget/tech.microcore.dstyle.scrollwidget.dll"
+[17:32:49-635][DEBUG]      |-> "tech.microcore.dstyle.scrollwidget" : 0
+[17:32:49-635][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 1 -> 2
+[17:32:49-635][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 1 -> 2
+[17:32:49-635][DEBUG]  |-> "tech.microcore.dstyle.tabwidget"
+[17:32:49-636][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.tabwidget/tech.microcore.dstyle.tabwidget.dll"
+[17:32:49-637][DEBUG]      |-> "tech.microcore.dstyle.tabwidget" : 0
+[17:32:49-637][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 1 -> 2
+[17:32:49-637][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 1 -> 2
+[17:32:49-637][DEBUG]  |-> "tech.microcore.dstyle.toolboxwidget"
+[17:32:49-637][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.toolboxwidget/tech.microcore.dstyle.toolboxwidget.dll"
+[17:32:49-639][DEBUG]      |-> "tech.microcore.dstyle.toolboxwidget" : 0
+[17:32:49-639][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 1 -> 2
+[17:32:49-639][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 1 -> 2
+[17:32:49-639][DEBUG]  |-> "tech.microcore.mainwin.core"
+[17:32:49-639][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.mainwin.core/tech.microcore.mainwin.core.dll"
+[17:32:49-641][DEBUG]      |-> "tech.microcore.mainwin.core" : 0
+[17:32:49-641][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 1 -> 2
+[17:32:49-641][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 1 -> 2
+[17:32:49-641][DEBUG]  |-> "tech.microcore.mainwin.ribbon"
+[17:32:49-642][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.mainwin.ribbon/tech.microcore.mainwin.ribbon.dll"
+[17:32:49-775][DEBUG]      |-> "tech.microcore.mainwin.ribbon" : 0
+[17:32:49-775][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 1 -> 2
+[17:32:49-775][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 1 -> 2
+[17:32:49-775][DEBUG]  |-> "tech.microcore.service.eventadmin"
+[17:32:49-776][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.service.eventadmin/tech.microcore.service.eventadmin.dll"
+[17:32:49-777][DEBUG]      |-> "tech.microcore.service.eventadmin" : 0
+[17:32:49-777][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 2 -> 4
+[17:32:49-777][DEBUG] [ "Resolved  " ]	 "tech.microcore.service.eventadmin"
+[17:32:49-782][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[17:32:49-788][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.configureadmin/extension.xml"
+[17:32:49-789][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.dynamiclayoutedit/extension.xml"
+[17:32:49-789][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.general/extension.xml"
+[17:32:49-789][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.optiondialog/extension.xml"
+[17:32:49-790][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.pluginmanager/extension.xml"
+[17:32:49-790][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.scenemanager/extension.xml"
+[17:32:49-790][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.config.shortcutmanager/extension.xml"
+[17:32:49-791][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.demo.themecharts/extension.xml"
+[17:32:49-791][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.scrollwidget/extension.xml"
+[17:32:49-791][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.tabwidget/extension.xml"
+[17:32:49-792][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.dstyle.toolboxwidget/extension.xml"
+[17:32:49-792][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.mainwin.core/extension.xml"
+[17:32:49-793][DEBUG] "Invalid extension file format, File: G:/Python3/layout/test/config/app/release/plugins/tech.microcore.mainwin.core/extension.xml > Line: 54, Column: 23, Error: tag mismatch"
+[17:32:49-796][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.mainwin.ribbon/extension.xml"
+[17:32:49-805][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.configureadmin"
+[17:32:49-890][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.dynamiclayoutedit"
+[17:32:49-974][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.general"
+[17:32:50-074][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.optiondialog"
+[17:32:50-158][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.pluginmanager"
+[17:32:50-257][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.scenemanager"
+[17:32:50-333][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.config.shortcutmanager"
+[17:32:50-432][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.demo.themecharts"
+[17:32:50-531][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.scrollwidget"
+[17:32:50-624][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.tabwidget"
+[17:32:50-715][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.dstyle.toolboxwidget"
+[17:32:50-800][DEBUG] [DB] > writeExtensionPlugin: ""
+[17:32:50-946][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 2 -> 4
+[17:32:50-946][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 2 -> 4
+[17:32:50-946][DEBUG] [ "Resolved  " ]	 "tech.microcore.mainwin.core"
+[17:32:50-950][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.mainwin.ribbon"
+[17:32:51-185][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 2 -> 4
+[17:32:51-185][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 2 -> 4
+[17:32:51-185][DEBUG] [ "Resolved  " ]	 "tech.microcore.mainwin.ribbon"
+[17:32:51-199][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 2 -> 4
+[17:32:51-199][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 2 -> 4
+[17:32:51-199][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.toolboxwidget"
+[17:32:51-217][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 2 -> 4
+[17:32:51-217][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 2 -> 4
+[17:32:51-217][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.tabwidget"
+[17:32:51-230][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 2 -> 4
+[17:32:51-230][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 2 -> 4
+[17:32:51-230][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.scrollwidget"
+[17:32:51-243][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 2 -> 4
+[17:32:51-243][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 2 -> 4
+[17:32:51-243][DEBUG] [ "Resolved  " ]	 "tech.microcore.demo.themecharts"
+[17:32:51-253][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 2 -> 4
+[17:32:51-253][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 2 -> 4
+[17:32:51-253][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.pluginmanager"
+[17:32:51-262][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 2 -> 4
+[17:32:51-262][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 2 -> 4
+[17:32:51-262][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.optiondialog"
+[17:32:51-271][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 2 -> 4
+[17:32:51-271][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 2 -> 4
+[17:32:51-271][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.shortcutmanager"
+[17:32:51-278][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 2 -> 4
+[17:32:51-278][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 2 -> 4
+[17:32:51-278][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.scenemanager"
+[17:32:51-285][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 2 -> 4
+[17:32:51-285][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 2 -> 4
+[17:32:51-285][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.general"
+[17:32:51-292][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 2 -> 4
+[17:32:51-292][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 1 -> 2
+[17:32:51-292][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 1 -> 2
+[17:32:51-292][DEBUG]  |-> "tech.microcore.service.propertybrowser"
+[17:32:51-292][DEBUG]    |-> "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.service.propertybrowser/tech.microcore.service.propertybrowser.dll"
+[17:32:51-293][DEBUG]      |-> "tech.microcore.service.propertybrowser" : 0
+[17:32:51-294][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 2 -> 4
+[17:32:51-294][DEBUG] [ "Resolved  " ]	 "tech.microcore.service.propertybrowser"
+[17:32:51-299][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 2 -> 4
+[17:32:51-299][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 1 -> 2
+[17:32:51-299][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 1 -> 2
+[17:32:51-300][DEBUG] START PLUGINS: ("tech.microcore.config.configureadmin", "tech.microcore.service.eventadmin", "tech.microcore.mainwin.core", "tech.microcore.mainwin.ribbon", "tech.microcore.dstyle.toolboxwidget", "tech.microcore.dstyle.tabwidget", "tech.microcore.dstyle.scrollwidget", "tech.microcore.demo.themecharts", "tech.microcore.config.pluginmanager", "tech.microcore.config.optiondialog", "tech.microcore.config.shortcutmanager", "tech.microcore.config.scenemanager", "tech.microcore.config.general", "tech.microcore.service.propertybrowser")
+[17:32:51-300][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 4 -> 8
+[17:32:51-300][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 4 -> 8
+[17:32:51-301][DEBUG] ConfigServiceActivator > register configuration service success
+[17:32:51-301][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 8 -> 32
+[17:32:51-301][DEBUG] [ "Actived   " ]	 "tech.microcore.config.configureadmin"
+[17:32:51-306][DEBUG] ExtensionFileParseTask::parseExtensionFile > "G:/Python3/layout/test/config/app/release/plugins/tech.microcore.service.propertybrowser/extension.xml"
+[17:32:51-309][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 8 -> 32
+[17:32:51-309][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 4 -> 8
+[17:32:51-309][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 4 -> 8
+[17:32:51-309][DEBUG] [INFO] EventAdmin: register event admin service success
+[17:32:51-309][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 8 -> 32
+[17:32:51-309][DEBUG] [ "Actived   " ]	 "tech.microcore.service.eventadmin"
+[17:32:51-312][DEBUG] [DB] > writeExtensionPlugin: "tech.microcore.service.propertybrowser"
+[17:32:51-418][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 8 -> 32
+[17:32:51-418][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 4 -> 8
+[17:32:51-418][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 4 -> 8
+[17:32:51-423][DEBUG] ExtensionPointPrivate::updateExtensionText > "tech.microcore.mainwin.core.statusbar" 
+	> ("<ExtData id=\"tech.microcore.mainwin.core.statusbar\" plugin=\"tech.microcore.mainwin.ribbon\" extPlugin=\"tech.microcore.mainwin.core\">\n<Menu id=\"tech.microcore.mainwin.Ribbon.Helps\" sceneMode=\"visible\" title=\"Helps\" permanent=\"false\" index=\"2\" visible=\"true\" enabled=\"true\" icon=\"res/logo_min.png\" toolTip=\"helps\" sceneName=\"\">\n<Menu id=\"tech.microcore.mainwin.Ribbon1.Print\" sceneMode=\"visible\" title=\"Print\" index=\"1\" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<Action id=\"tech.microcore.mainwin.Ribbon.Edit1\" index=\"1\" checkable=\"true\" iconSize=\"large\" text=\"Edit\" visible=\"true\" enabled=\"true\" checked=\"true\" toolTip=\"Edit\" statusTip=\"Edit\" autoRepeat=\"false\"/>\n<Group id=\"tech.microcore.mainwin.Ribbon.Files\" sceneMode=\"visible\" index=\"1\" text=\"Files\" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<Action id=\"tech.microcore.mainwin.Ribbon.Save\" index=\"1\" checkable=\"true\" iconSize=\"large\" text=\"Save\" visible=\"true\" enabled=\"true\" checked=\"true\" toolTip=\"Save\" statusTip=\"Save\" autoRepeat=\"false\"/>\n<Action id=\"tech.microcore.mainwin.Ribbon.Pic\" index=\"2\" checkable=\"true\" iconSize=\"large\" text=\"Pic\" visible=\"true\" enabled=\"true\" checked=\"true\" toolTip=\"Pic\" statusTip=\"Pic\" autoRepeat=\"false\"/>\n</Group>\n</Menu>\n<Action id=\"tech.microcore.mainwin.Ribbon.Edit\" index=\"2\" checkable=\"true\" iconSize=\"large\" text=\"Edit\" visible=\"true\" enabled=\"true\" checked=\"true\" toolTip=\"Edit\" statusTip=\"Edit\" autoRepeat=\"false\"/>\n<Group id=\"tech.microcore.mainwin.Ribbon.groupHelp\" text=\"Help\">\n<Action id=\"tech.microcore.mainwin.Ribbon.HelpECvsdv\" index=\"2\" checkable=\"true\" iconSize=\"large\" text=\"Helps\" visible=\"true\" enabled=\"true\" checked=\"true\" toolTip=\"Helps\" statusTip=\"Helps\" autoRepeat=\"false\"/>\n</Group>\n</Menu>\n<Action id=\"tech.microcore.mainwin.Ribbon.statusbar.action.option\" sceneMode=\"visible\" permanent=\"true\" index=\"4\" text=\"option\" visible=\"true\" icon=\"res/config_set.png\" enabled=\"true\" shortcut=\"\" toolTip=\"option\" sceneName=\"\"/>\n<ProgressBar id=\"tech.microcore.mainwin.Ribbon.progressbar\" sceneMode=\"visible\" permanent=\"true\" value=\"40\" index=\"3\" text=\"ProgressBar\" visible=\"true\" enabled=\"true\" sceneName=\"\"/>\n<Slider id=\"tech.microcore.mainwin.Ribbon.slider1\" sceneMode=\"visible\" permanent=\"true\" value=\"50\" maximum=\"100\" index=\"1\" minimum=\"0\" text=\"Slider\" visible=\"true\" enabled=\"true\" sceneName=\"\"/>\n<LineEdit id=\"tech.microcore.mainwin.Ribbon.lineedit\" sceneMode=\"visible\" permanent=\"false\" label=\"hello\" index=\"1\" text=\"hello\" visible=\"true\" enabled=\"true\" readOnly=\"false\" sceneName=\"\"/>\n<widget id=\"tech.microcore.mainwin.Ribbon.widget\" sceneMode=\"visible\" permanent=\"false\" index=\"3\" visible=\"true\" enabled=\"true\" sceneName=\"\"/>\n</ExtData>\n")
+[17:32:51-428][DEBUG] ExtensionPointPrivate::updateExtensionText > "tech.microcore.mainwin.core.dockview" 
+	> ("<ExtData id=\"tech.microcore.mainwin.core.dockview\" plugin=\"tech.microcore.service.propertybrowser\" extPlugin=\"tech.microcore.mainwin.core\">\n<Dockview id=\"tech.microcore.service.propertybrowser.property\" title=\"属性\" isFloating=\"false\" allowedAreas=\"2,4\" defareas=\"1\" visible=\"true\" icon=\"images/property.png\" toolTip=\"属性\" sceneName=\"\"/>\n</ExtData>\n")
+[17:32:51-431][DEBUG] ExtensionPointPrivate::updateExtensionText > "tech.microcore.mainwin.core.centralview" 
+	> ("<ExtData id=\"tech.microcore.mainwin.core.centralview\" activated=\"false\" plugin=\"tech.microcore.demo.themecharts\" factory=\"false\" extPlugin=\"tech.microcore.mainwin.core\">\n<centralview activated=\"true\" id=\"tech.microcore.demo.themecharts.showchartsview\" title=\"Charts\" factory=\"false\" icon=\"combo_chart-32.png\" sceneName=\"charts\"/>\n</ExtData>\n")
+[17:32:51-434][DEBUG] ExtensionPointPrivate::updateExtensionText > "tech.microcore.mainwin.core.layout" 
+	> ("<ExtData id=\"tech.microcore.mainwin.core.layout\" plugin=\"tech.microcore.mainwin.ribbon\" extPlugin=\"tech.microcore.mainwin.core\">\n<Layout id=\"tech.microcore.mainwin.core.layout.ribbon\" title=\"Ribbon Main Window\" size=\"1213,806\" showMode=\"8\" icon=\"res/aboutus.png\" toolTip=\"Ribbon Main Window\"/>\n</ExtData>\n")
+[17:32:51-446][DEBUG] ExtensionPointPrivate::updateExtensionText > "tech.microcore.mainwin.core.control" 
+	> ("<ExtData id=\"tech.microcore.mainwin.core.control\" plugin=\"tech.microcore.config.optiondialog\" extPlugin=\"tech.microcore.mainwin.core\">\n<Format target=\"tech.microcore.mainwin.core.layout.ribbon\">\n<Action id=\"tech.microcore.config.optiondialog.show\" parent=\"tech.microcore.mainwin.ribbon.toolbar.file\"/>\n</Format>\n<Action id=\"tech.microcore.config.optiondialog.show\" sceneMode=\"true\" checkable=\"false\" text=\"选项\" visible=\"true\" icon=\"images/logo_min.png\" enabled=\"true\" checked=\"false\" toolTip=\"选项\" sceneName=\"\" autoRepeat=\"false\"/>\n</ExtData>\n", "<ExtData id=\"tech.microcore.mainwin.core.control\" plugin=\"tech.microcore.config.pluginmanager\" extPlugin=\"tech.microcore.mainwin.core\">\n<Format target=\"tech.microcore.mainwin.core.layout.ribbon\">\n<Action id=\"tech.microcore.pluginmanager.action.ShowPluginManagerDialog\" index=\"3\" parent=\"tech.microcore.mainwin.ribbon.toolbar.open\"/>\n</Format>\n<Action id=\"tech.microcore.pluginmanager.action.ShowPluginManagerDialog\" checkable=\"false\" text=\"插件管理器\" iconSize=\"\" visible=\"true\" icon=\"images/puzzle.png\" enabled=\"true\" shortcut=\"\" checked=\"false\" toolTip=\"plugin manager\" statusTip=\"plugin manager\" sceneName=\"\" autoRepeat=\"false\"/>\n</ExtData>\n", "<ExtData id=\"tech.microcore.mainwin.core.control\" plugin=\"tech.microcore.mainwin.ribbon\" extPlugin=\"tech.microcore.mainwin.core\">\n<Format target=\"tech.microcore.mainwin.core.layout.ribbon\">\n<ToolBars>\n<toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.file\" sceneMode=\"\" enable=\"\" systembuttonstyle=\"backstagepage\" toolbarstyle=\"systembutton\" index=\"2\" text=\"File\" visible=\"true\" sceneName=\"\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.information\" title=\"Information\" isbackstagevisible=\"true\" thumb=\"res/information.png\" pagestyle=\"normal\" icon=\"\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.protect document\" title=\"Protect   Document\" pagestyle=\"normal\" iconSize=\"large\" icon=\"res/ProtectDocument.png\">\n<action id=\"tech.microcore.mainwin.ribbon.action.Mark as the final state\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Mark as the final state\" iconSize=\"large\" visible=\"true\" icon=\"res/ProtectDocument.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Encrypt with password\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Encrypt with password\" iconSize=\"large\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Limited to edit\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Limited to edit\" iconSize=\"large\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.Check the document\" title=\"CheckIssues\" iconSize=\"large\" pagestyle=\"normal\" icon=\"res/CheckIssues.png\">\n<action id=\"tech.microcore.mainwin.ribbon.action.Check the document1\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Check the document\" iconSize=\"large\" visible=\"true\" icon=\"res/check_mark.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Check auxiliary function\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Check auxiliary function\" iconSize=\"large\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Check compatibility online\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Check compatibility online\" shortCut=\"\" checkable=\"true\" text=\"Check compatibility online\" iconSize=\"large\" visible=\"true\" icon=\"res/translation.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.versions\" title=\"Versions\" pagestyle=\"normal\" iconSize=\"large\" icon=\"res/MngVersions.png\">\n<action id=\"tech.microcore.mainwin.ribbon.action.Restore unsaved documents\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Restore unsaved documents\" iconSize=\"large\" visible=\"true\" icon=\"res/Places_folde.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.Openfiles\" title=\"Open Files\" isbackstagevisible=\"true\" thumb=\"res/screenpreview.png\" pagestyle=\"navigation\" icon=\"res/Recently.png\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.RecentDocuments\" sceneMode=\"\" enable=\"true\" title=\"Recent\" statustip=\"RecentDocuments\" tooltip=\"RecentDocuments\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/Recently.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\">\n<action id=\"tech.microcore.mainwin.ribbon.action.open_folder_lock\" sceneMode=\"\" enable=\"true\" statustip=\"open_folder_lock\" tooltip=\"open_folder_lock\" shortCut=\"\" checkable=\"true\" text=\"open_folder_lock\" iconSize=\"large\" visible=\"true\" icon=\"res/open_folder_lock_32px.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.openRecent\" sceneMode=\"\" enable=\"true\" statustip=\"Recent Open\" tooltip=\"Recent Open\" shortCut=\"\" checkable=\"true\" text=\"Recent Open\" iconSize=\"large\" visible=\"true\" icon=\"res/open_file_32px.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.OneDrive\" sceneMode=\"\" enable=\"true\" title=\"OneDrive\" statustip=\"OneDrive\" tooltip=\"OneDrive\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/OneDrive_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu2.OneDrive\" sceneMode=\"\" enable=\"true\" title=\"Account\" statustip=\"Account\" tooltip=\"Account\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/account_card_32px.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\">\n<action id=\"tech.microcore.mainwin.ribbon.action.Cmicrosoft\" sceneMode=\"\" enable=\"true\" statustip=\"microsoft\" tooltip=\"microsoft\" shortCut=\"\" checkable=\"true\" text=\"microsoft\" iconSize=\"large\" visible=\"true\" icon=\"res/microsoft_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.male_user_accept\" sceneMode=\"\" enable=\"true\" statustip=\"male_user_accept\" tooltip=\"male_user_accept\" shortCut=\"\" checkable=\"true\" text=\"male_user_accept\" iconSize=\"large\" visible=\"true\" icon=\"res/male_user_accept_32.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu. computer\" sceneMode=\"\" enable=\"true\" title=\"Computer\" statustip=\"This computer\" tooltip=\"This computer\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/computer_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu2.setup\" sceneMode=\"\" enable=\"true\" title=\"setup\" statustip=\"setup\" tooltip=\"setup\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/computer_setup_32px.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.menu2.online\" sceneMode=\"\" enable=\"true\" title=\"online\" statustip=\"online\" tooltip=\"online\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/computer_32.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.menu2.send\" sceneMode=\"\" enable=\"true\" title=\"send\" statustip=\"send\" tooltip=\"send\" shortCut=\"\" checkable=\"true\" iconSize=\"large\" visible=\"true\" icon=\"res/computer.png\" toolbuttonstyle=\"textBesideIcon\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</menu>\n<action id=\"tech.microcore.mainwin.ribbon.action.saveS\" sceneMode=\"\" enable=\"true\" statustip=\"\" isbackstagevisible=\"true\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Save\" iconSize=\"large\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.Save Copy As\" title=\"Save As\" isbackstagevisible=\"false\" thumb=\"res/save-as.png\" pagestyle=\"normal\">\n<action id=\"tech.microcore.mainwin.ribbon.action.OneDrive1\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Save the file in the cloud\" shortCut=\"\" checkable=\"true\" text=\"OneDrive\" iconSize=\"large\" visible=\"true\" icon=\"res/savethemes.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Local\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Save the file locally\" shortCut=\"\" checkable=\"true\" text=\"Local\" iconSize=\"large\" visible=\"true\" icon=\"res/saveasfile.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Add the position\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Add a save location\" shortCut=\"\" checkable=\"true\" text=\"Position\" iconSize=\"large\" visible=\"true\" icon=\"res/SaveSharePoint.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.print\" title=\"Print\" isbackstagevisible=\"true\" thumb=\"res/printing.png\" pagestyle=\"normal\" icon=\"res/fileprint.png\">\n<group id=\"tech.microcore.mainwin.ribbon.group.Send\" text=\"Send\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.Send To OneNote2013\" defaultActionId=\"tech.microcore.mainwin.ribbon.action.Send To OneNote2013s\" title=\"Send\" thumb=\"res/dayin1.png\" pagestyle=\"normal\" iconSize=\"large\" icon=\"res/OneNote.png\">\n<action id=\"tech.microcore.mainwin.ribbon.action.fax\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Fax\" iconSize=\"large\" visible=\"true\" icon=\"res/fax_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Microsoft XPS Document Writer\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Microsoft XPS Document Writer\" iconSize=\"small\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Send To OneNote2013s\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Send To OneNote2013\" shortCut=\"\" checkable=\"true\" text=\"OneNote2013\" iconSize=\"small\" visible=\"true\" icon=\"res/OneNote.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Word_2013\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Word\" iconSize=\"small\" visible=\"true\" icon=\"res/Word_2013_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.Send To excl\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Send To OneNote2013\" shortCut=\"\" checkable=\"true\" text=\"Excel\" iconSize=\"small\" visible=\"true\" icon=\"res/Excel_32.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.group.Print\" text=\"Print\" pagestyle=\"normal\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.printer\" defaultActionId=\"tech.microcore.mainwin.ribbon.action.add a printer\" title=\"printer\" thumb=\"res/dayin.png\" pagestyle=\"normal\" iconSize=\"large\" icon=\"res/fileprint.png\">\n<action id=\"tech.microcore.mainwin.ribbon.action.add a printer\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Add a printer\" shortCut=\"\" checkable=\"true\" text=\"Printer\" iconSize=\"small\" visible=\"true\" icon=\"res/fileprint.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\"tech.microcore.mainwin.ribbon.action.print to file1\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Print to File\" shortCut=\"\" checkable=\"true\" text=\"Print to File to PDF\" iconSize=\"small\" visible=\"true\" icon=\"res/pdf.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</group>\n</menu>\n<menu id=\"tech.microcore.mainwin.ribbon.menu.export\" title=\"Export \" pagestyle=\"normal\" icon=\"\">\n<action id=\"tech.microcore.mainwin.ribbon.action.creation1 PDF/XPS\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Creation1 PDF/XPS\" shortCut=\"\" index=\"2\" checkable=\"true\" text=\"\" iconSize=\"large\" visible=\"true\" icon=\"res/pdf.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<action id=\" tech.microcore.mainwin.ribbon.action.change paper type1\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"Export\" shortCut=\"\" checkable=\"true\" text=\"\" iconSize=\"large\" visible=\"true\" icon=\"res/Export_32px.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n<action id=\"tech.microcore.mainwin.ribbon.action.close\" sceneMode=\"\" enable=\"true\" statustip=\"\" isbackstagevisible=\"false\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"Close\" iconSize=\"large\" visible=\"true\" icon=\"\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n<group id=\"tech.microcore.mainwin.ribbon.group.groups\" text=\"Account\">\n<menu id=\"tech.microcore.mainwin.ribbon.menu.About\" title=\"About \" thumb=\"res/devmachines.png\" pagestyle=\"normal\" icon=\"\">\n<action id=\"tech.microcore.mainwin.ribbon.action.help\" sceneMode=\"\" enable=\"true\" statustip=\"\" tooltip=\"\" shortCut=\"\" checkable=\"true\" text=\"help\" iconSize=\"large\" visible=\"true\" icon=\"res/help.png\" toolbuttonstyle=\"\" checked=\"\" sceneName=\"\" autoRepeat=\"true\"/>\n</menu>\n</group>\n</toolbar>\n<Toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.scene\" sceneMode=\"visible\" index=\"2\" text=\"Start\" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.clipboard\" sceneMode=\"visible\" thumb=\"res/clipboardToolTip.png\" control=\"column\" index=\"1\" text=\"Shear Plate\" visible=\"true\" icon=\"res/paste1.png\" enabled=\"true\" toolTip=\"Show the Office clipboard Task Pane\" statusTip=\"Show the Office clipboard Task Pane\" option=\"dialog\" sceneName=\"\" thumbsize=\"97,130\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Copy \" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" quickAccess=\"3\" index=\"2\" checkable=\"false\" text=\"Copy\" iconSize=\"small\" visible=\"true\" icon=\"res/copy.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+C\" parent=\"\" toolTip=\"Copy the selection and put it on the Clipboard \" statusTip=\"Copy the selection and put it on the Clipboard\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.cut\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" quickAccess=\"4\" index=\"3\" checkable=\"false\" text=\"Cut\" iconSize=\"small\" visible=\"true\" icon=\"res/cut.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+Z\" parent=\"\" toolTip=\"Cut the selection and put it on the Clipboard \" statusTip=\"Cut the selection and put it on the Clipboard\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.paste\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" quickAccess=\"5\" index=\"1\" checkable=\"\" text=\"paste\" iconSize=\"large\" visible=\"true\" icon=\"res/paste.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+V\" parent=\"\" toolTip=\"paste the selection and put it on the Clipboard \" statusTip=\"paste the selection and put it on the Clipboard\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.format \" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" quickAccess=\"6\" index=\"4\" checkable=\"true\" text=\"Format\" iconSize=\"small\" visible=\"true\" icon=\"res/format.png\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"formatpainter the selection and put it on the Clipboard \" statusTip=\"formatpainter the selection and put it on the Clipboard\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.Font\" sceneMode=\"visible\" thumb=\"res/fontToolTip.png\" unfold=\"true\" control=\"row\" index=\"2\" text=\"Font\" visible=\"true\" icon=\"res/Fonts.png\" enabled=\"true\" toolTip=\"Set the font size and text styles\" statusTip=\"Set the font size and text styles\" sceneName=\"\" option=\"dock\" thumbsize=\"97,130\">\n<widget id=\"tech.microcore.mainwin.ribbon.toolbar.widget.colour\" sceneMode=\"visible\" widgetsize=\"16,16\" index=\"1\" checkable=\"\" text=\"colour\" visible=\"true\" icon=\"res/font_color.png\" enabled=\"true\" checked=\"\" toolTip=\"Change the text color \" statusTip=\"Are falling number one font display\" textvisible=\"false\" iconvisible=\"true\" sceneName=\"\" style=\"Color\"/>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.fontsize\" control=\"row\" index=\"2\" icon=\"res/Font1.png\">\n<widget id=\"tech.microcore.mainwin.ribbon.toolbar.widget.font\" sceneMode=\"\" widgetsize=\"\" index=\"1\" checkable=\"\" text=\"Font\" visible=\"true\" icon=\"res/Fonts.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Change the text size \" statusTip=\"Is changing the text size\" textvisible=\"false\" iconvisible=\"true\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.up\" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"2\" checkable=\"\" text=\"Up\" iconSize=\"small\" visible=\"true\" icon=\"res/up.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Increase the font display\" statusTip=\"Growing number one font display\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.down \" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"3\" checkable=\"\" text=\"Down\" iconSize=\"small\" visible=\"true\" icon=\"res/down.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Narrow size \" statusTip=\"Are falling number one font display\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.fontstyle\" control=\"row\" index=\"3\" icon=\"res/Font1.png\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.bold\" sceneMode=\"visible\" toolButtonStyle=\"iconOnly\" index=\"5\" checkable=\"true\" text=\"Bold\" iconSize=\"small\" visible=\"true\" icon=\"res/bold.ico\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"The text bold \" statusTip=\"The text bold\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.slope\" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"7\" checkable=\"true\" text=\"Slope\" iconSize=\"small\" visible=\"true\" icon=\"res/slope.ico\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"Dip the text \" statusTip=\"Dip the text\" sceneName=\"\"/>\n</group>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.Paragraph\" sceneMode=\"visible\" thumb=\"res/paragraphToolTip.png\" control=\"row\" index=\"3\" text=\"Paragraph\" iconSize=\"large\" visible=\"true\" icon=\"res/middle1.png\" enabled=\"true\" toolTip=\"\" statusTip=\"\" sceneName=\"\" option=\"custom\" thumbsize=\"97,130\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.indent\" control=\"row\" index=\"1\" icon=\"res/middle1.png\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Outdent \" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"2\" checkable=\"true\" text=\"Outdent\" iconSize=\"small\" visible=\"true\" icon=\"res/outdent.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Close to the border mobile paragraphs \" statusTip=\"Close to the border mobile paragraphs\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Indent \" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"1\" checkable=\"true\" text=\"Indent\" iconSize=\"small\" visible=\"true\" icon=\"res/indent.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Increase the indentation level of a paragraph \" statusTip=\"Increase the indentation level of a paragraph\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.sort\" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"3\" checkable=\"\" text=\"Sort\" iconSize=\"small\" visible=\"true\" icon=\"res/sort.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Sorted by alphabetical order or digital array of the currently selected content\" statusTip=\"Sorted by alphabetical order or digital array of the currently selected content\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.border\" control=\"row\" index=\"2\" icon=\"res/middle1.png\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.center\" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"2\" checkable=\"\" text=\"Center\" iconSize=\"small\" visible=\"true\" icon=\"res/middle.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"align center \" statusTip=\"align center\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.leftjustifying\" sceneMode=\"\" toolButtonStyle=\"iconOnly\" index=\"1\" checkable=\"\" text=\"leftjustifying\" iconSize=\"small\" visible=\"true\" icon=\"res/Leftjustifying.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Font selected area left alignment \" statusTip=\"Font selected area left alignment\" sceneName=\"\" autoRepeat=\"\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.toolbar.menu.border\" defaultActionId=\"tech.microcore.mainwin.ribbon.toolbar.action.none\" sceneMode=\"visible\" title=\"Border\" toolButtonStyle=\"iconOnly\" index=\"2\" checkable=\"false\" iconSize=\"small\" visible=\"true\" icon=\"res/border.ico\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"\" statusTip=\"\" sceneName=\"\" autoRepeat=\"false\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Undertheframeline\" sceneMode=\"\" toolButtonStyle=\"besideicon\" index=\"1\" checkable=\"\" text=\"undertheframeline\" iconSize=\"small\" visible=\"true\" icon=\"res/Undertheframeline.ico\" enabled=\"true\" checked=\"\" toolTip=\"undertheframeline \" statusTip=\"undertheframeline\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Boxlineon\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"2\" checkable=\"\" text=\"boxlineon\" iconSize=\"small\" visible=\"true\" icon=\"res/Boxlineon.ico\" enabled=\"true\" checked=\"\" toolTip=\"boxlineon \" statusTip=\"boxlineon\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Theleftboxline\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"3\" checkable=\"\" text=\"theleftboxline\" iconSize=\"small\" visible=\"true\" icon=\"res/Theleftboxline.ico\" enabled=\"true\" checked=\"\" toolTip=\"Theleftboxline \" statusTip=\"Theleftboxline\" sceneName=\"\" autoRepeat=\"\"/>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.action.group1111\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Therightboxline\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"4\" checkable=\"\" text=\"therightboxline\" iconSize=\"small\" visible=\"true\" icon=\"res/Therightboxline.ico\" enabled=\"true\" checked=\"\" toolTip=\"therightboxline \" statusTip=\"therightboxline\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.none\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"5\" checkable=\"true\" text=\"None\" iconSize=\"small\" visible=\"true\" icon=\"res/none.ico\" enabled=\"true\" checked=\"true\" parent=\"\" toolTip=\"none \" statusTip=\"none\" sceneName=\"\" autoRepeat=\"\"/>\n</menu>\n</group>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.groupgallery\" sceneMode=\"\" thumb=\"res/clipboardToolTip.png\" control=\"row\" index=\"4\" text=\"Style\" iconSize=\"large\" visible=\"true\" icon=\"res/theme.png\" enabled=\"\" toolTip=\"Presenting style theme\" statusTip=\"Presenting style theme\" sceneName=\"\" option=\"\" thumbsize=\"\">\n<widget id=\"tech.microcore.mainwin.ribbon.toolbar.action.themes\" widgetsize=\"32,32\" index=\"1\" text=\"Table\" icon=\"res/Table_32.png\" iconvisible=\"true\" style=\"Table\"/>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes\" toolButtonStyle=\"textUnderIcon\" GYmincount=\"3\" GYbuttonsize=\"64,48\" GYunitSize=\"64,48\" GYborderVisible=\"true\" GY_unfold=\"true\" control=\"gallery\" index=\"2\" GYmap=\"res/gallerythemes.png\" text=\"Style\" iconSize=\"large\" icon=\"res/theme.png\" GYclipcount=\"40\" iconvisible=\"true\" GYmaxcount=\"8\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.BrowseTopics\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"3\" checkable=\"false\" text=\"Browse Topics\" iconSize=\"small\" visible=\"true\" icon=\"res/browsetopics.png\" enabled=\"true\" checked=\"\" shortcut=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.savethemes\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"2\" checkable=\"\" text=\"Save Themes\" iconSize=\"large\" visible=\"true\" icon=\"res/savethemes.png\" enabled=\"true\" checked=\"\" shortcut=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Settingstheme\" sceneMode=\"\" toolButtonStyle=\"labelonly\" index=\"1\" checkable=\"\" text=\"Settings for the theme in the template\" iconSize=\"\" visible=\"true\" icon=\"res/settingstheme.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style\" GYmincount=\"4\" GYbuttonsize=\"64,48\" GYunitSize=\"64,48\" GYborderVisible=\"true\" GY_unfold=\"false\" control=\"gallery\" index=\"3\" GYmap=\"res/galleryStyles.png\" text=\"Style\" icon=\"res/star.png\" GYclipcount=\"10\" GYmaxcount=\"10\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Createstyle.\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"3\" checkable=\"false\" text=\"Create Style\" iconSize=\"small\" visible=\"true\" icon=\"res/createstyle.png\" enabled=\"true\" checked=\"\" shortcut=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Clearstyle\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"1\" checkable=\"\" text=\"Clear Style\" iconSize=\"large\" visible=\"true\" icon=\"res/clearstyle.png\" enabled=\"true\" checked=\"\" shortcut=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.applystyle \" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"4\" checkable=\"true\" text=\"Apply Style\" iconSize=\"small\" visible=\"true\" icon=\"res/applystyle.png\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.edit\" sceneMode=\"\" thumb=\"res/clipboardToolTip.png\" control=\"column\" index=\"5\" text=\"Edit\" iconSize=\"large\" visible=\"true\" icon=\"res/folder_search.png\" enabled=\"\" toolTip=\"Provide search and check\" statusTip=\"Provide search and check\" sceneName=\"\" option=\"\" thumbsize=\"\">\n<menu id=\"tech.microcore.mainwin.ribbon.toolbar.menu.find\" defaultActionId=\"tech.microcore.mainwin.ribbon.toolbar.action.find\" sceneMode=\"visible\" title=\"Find\" toolButtonStyle=\"textBesideIcon\" index=\"1\" checkable=\"false\" iconSize=\"small\" visible=\"true\" icon=\"res/find.ico\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"\" statusTip=\"\" sceneName=\"\" autoRepeat=\"false\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.find\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"1\" checkable=\"\" text=\"find\" iconSize=\"small\" visible=\"true\" icon=\"res/Find.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.AdvancedFind\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"1\" checkable=\"\" text=\"advancedfind\" iconSize=\"small\" visible=\"true\" icon=\"res/find1.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n</menu>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.replace\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"2\" checkable=\"\" text=\"Replace\" iconSize=\"small\" visible=\"true\" icon=\"res/replace.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.toolbar.menu.choice\" sceneMode=\"visible\" title=\"Choice\" toolButtonStyle=\"textBesideIcon\" index=\"3\" checkable=\"false\" visible=\"true\" icon=\"res/select.ico\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"Selection state including selected and the object selected\" statusTip=\"Selection state including selected and the object selected\" sceneName=\"\" autoRepeat=\"false\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.checkall\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"1\" checkable=\"\" text=\"Checkall\" iconSize=\"small\" visible=\"true\" icon=\"res/checkall.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.alternative\" sceneMode=\"\" toolButtonStyle=\"textBesideIcon\" index=\"2\" checkable=\"\" text=\"alternative\" iconSize=\"small\" visible=\"true\" icon=\"res/select.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\" \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n</menu>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.dynamicLayout\" sceneMode=\"visible\" thumb=\"res/clipboardToolTip.png\" control=\"row\" index=\"6\" text=\"DynamicLayout\" visible=\"true\" icon=\"res/layout.png\" enabled=\"true\" toolTip=\"Back to the previous status, or back to the previous state of the previous state\" statusTip=\"Back to the previous status, or back to the previous state of the previous state\" sceneName=\"\" option=\"custom\" thumbsize=\"97,130\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.group.action.undo\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"1\" checkable=\"true\" text=\"Undo\" iconSize=\"large\" visible=\"true\" icon=\"res/undo.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Forward to before operation \" statusTip=\"Forward to before operation\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.group.action.redo\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"2\" checkable=\"true\" text=\"Redo\" iconSize=\"large\" visible=\"true\" icon=\"res/redo.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Back to before the operation \" statusTip=\"Back to before the operation\" sceneName=\"\" autoRepeat=\"\"/>\n<widget id=\"tech.microcore.mainwin.ribbon.toolbar.group.action.redo1\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"2\" checkable=\"true\" text=\"Redo\" iconSize=\"large\" visible=\"true\" icon=\"res/redo.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Back to before the operation \" statusTip=\"Back to before the operation\" sceneName=\"\" style=\"Undo\" autoRepeat=\"\"/>\n</group>\n</Toolbar>\n<Toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.dock\" sceneMode=\"visible\" index=\"3\" text=\" View\" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.Samkoon\" sceneMode=\"\" thumb=\"\" control=\"column\" index=\"1\" text=\"Central Samkoon\" unfolded=\"true\" visible=\"\" icon=\"res/clipboard.png\" enabled=\"\" toolTip=\"Call scenario shows\" statusTip=\"\" sceneName=\"\" option=\"\" thumbsize=\"\">\n<action id=\"tech.microcore.mainwin.ribbon.toolbar.group.widget.text\" sceneMode=\"\" widgetsize=\"16,16\" statustip=\"The video text editor\" tooltip=\"The video text editor\" index=\"1\" text=\"Text    View :\" visible=\"true\" icon=\"res/text.png\" enabled=\"\" parent=\"\" textvisible=\"true\" iconvisible=\"true\" sceneName=\"\"/>\n<action id=\"tech.microcore.mainwin.ribbon.toolbar.group.widget.player\" sceneMode=\"\" widgetsize=\"16,16\" statustip=\"Show player scene\" tooltip=\"Show player scene\" index=\"2\" text=\"Player  View :\" visible=\"true\" icon=\"res/player.ico\" enabled=\"\" parent=\"\" textvisible=\"true\" iconvisible=\"true\" sceneName=\"\"/>\n<action id=\"tech.microcore.mainwin.ribbon.toolbar.group.widget.dynamic\" sceneMode=\"\" widgetsize=\"16,16\" statustip=\"The explicit dynamic layout scenario\" tooltip=\"The explicit dynamic layout scenario\" index=\"3\" text=\"Dynamic View :\" visible=\"true\" icon=\"res/dynamic.ico\" enabled=\"\" parent=\"\" textvisible=\"true\" iconvisible=\"true\" sceneName=\"\"/>\n</group>\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.dock\" sceneMode=\"visible\" thumb=\"res/clipboardToolTip.png\" control=\"row\" index=\"2\" text=\"dock\" unfolded=\"true\" visible=\"true\" enabled=\"true\" icon=\"res/view-fullscreen.png\" toolTip=\"\" statusTip=\"\" sceneName=\"\" option=\"custom\" thumbsize=\"97,130\">\n<action id=\"tech.microcore.mainwin.ribbon.toolbar.widget.property\" sceneMode=\"visible\" widgetsize=\"16,16\" statustip=\"current Time\" tooltip=\"\" index=\"3\" text=\"property\" visible=\"true\" icon=\"res/view-fullscreen.png\" enabled=\"true\" parent=\"\" textvisible=\"false\" iconvisible=\"true\" sceneName=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.north \" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"2\" checkable=\"false\" text=\"North\" iconSize=\"small\" visible=\"true\" icon=\"res/north.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+n\" parent=\"\" toolTip=\"Above the dock \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.south \" sceneMode=\"\" index=\"1\" checkable=\"false\" text=\"South\" iconSize=\"small\" visible=\"true\" icon=\"res/south.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+s\" parent=\"\" toolTip=\"Below the dock \" statusTip=\"Below the dock\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.east \" sceneMode=\"\" index=\"4\" checkable=\"false\" text=\"East\" iconSize=\"small\" visible=\"true\" icon=\"res/east.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+e\" parent=\"\" toolTip=\"On the right side of the dock \" statusTip=\"On the right side of the dock\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.west \" sceneMode=\"\" index=\"5\" checkable=\"false\" text=\"West\" iconSize=\"small\" visible=\"true\" icon=\"res/west.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+w\" parent=\"\" toolTip=\"Dock to the left \" statusTip=\"Dock to the left\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n</Toolbar>\n<Toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.tools\" sceneMode=\"visible\" index=\"4\" text=\"Tools\" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.tools\" sceneMode=\"visible\" thumb=\"res/clipboardToolTip.png\" control=\"row\" index=\"4\" text=\"tools\" visible=\"true\" icon=\"res/preferences-system.png\" enabled=\"true\" toolTip=\"Show the Office clipboard Task Pane\" statusTip=\"Show the Office clipboard Task Pane\" sceneName=\"\" option=\"custom\" thumbsize=\"97,130\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools\" sceneMode=\"visible\" thumb=\"\" control=\"row\" index=\"2\" text=\"Remoting Tools\" visible=\"true\" icon=\"res/outtools.png\" enabled=\"true\" toolTip=\"Called outside entrance program interface tools\" statusTip=\"Called outside entrance program interface tools\" sceneName=\"\" option=\"custom\" thumbsize=\"\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Translate\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"5\" checkable=\"\" text=\"Translate\" iconSize=\"large\" visible=\"true\" icon=\"res/translate.ico\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Support multilingual translation tools \" statusTip=\"Support multilingual translation tools\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.Deployer\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"6\" checkable=\"false\" text=\"Deployer\" iconSize=\"large\" visible=\"true\" icon=\"res/appdeployer.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+d\" parent=\"\" toolTip=\"Support packaging tools \" statusTip=\"Support packaging tools\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.pluginmanager.action.ShowPluginManagerDialog\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"1\" checkable=\"false\" text=\"PluginManager\" iconSize=\"large\" visible=\"true\" icon=\"res/puzzle.png\" enabled=\"true\" checked=\"\" shortcut=\"Ctrl+p\" toolTip=\"Control of the plug-in running state \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n</group>\n<Action id=\"tech.microcore.config.optiondialog.show\" sceneMode=\"true\" toolButtonStyle=\"\" index=\"1\" checkable=\"false\" text=\"Options\" visible=\"true\" icon=\"res/logo_min.png\" enabled=\"true\" checked=\"false\" toolTip=\"Options\" sceneName=\"\" autoRepeat=\"false\"/>\n</group>\n</Toolbar>\n<Toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.help\" sceneMode=\"visible\" index=\"5\" text=\"Help \" visible=\"true\" enabled=\"true\" sceneName=\"\">\n<group id=\"tech.microcore.mainwin.ribbon.toolbar.group.help\" sceneMode=\"visible\" title=\"Central Samkoon\" thumb=\"res/clipboardToolTip.png\" control=\"column\" index=\"\" unfolded=\"true\" visible=\"true\" icon=\"res/file.png\" enabled=\"true\" toolTip=\"Show the Office clipboard Task Pane\" statusTip=\"Show the Office clipboard Task Pane\" sceneName=\"\" option=\"dock\" thumbsize=\"97,130\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.widget.company\" sceneMode=\"visible\" index=\"2\" checkable=\"false\" text=\"Micro\" iconSize=\"small\" visible=\"true\" icon=\"res/aboutus.png\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"tr('MicroCore telephone number锛?3378533')\" statusTip=\"tr('QxPlugin version锛?.0.1')\" textvisible=\"true\" iconvisible=\"true\" sceneName=\"\" autoRepeat=\"false\"/>\n<menu id=\"tech.microcore.mainwin.ribbon.toolbar.action.technical\" sceneMode=\"visible\" title=\"Technical Support \" toolButtonStyle=\"textBesideIcon\" index=\"3\" checkable=\"false\" iconSize=\"small\" visible=\"true\" icon=\"res/help.png\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"Menu\" statusTip=\"\" sceneName=\"\" autoRepeat=\"false\">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.aboutqt\" sceneMode=\"\" index=\"1\" checkable=\"\" text=\"about qt\" visible=\"true\" icon=\"res/aboutqt.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"qt help information \" statusTip=\"\" sceneName=\"\" autoRepeat=\"\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.action.aboutus\" sceneMode=\"\" toolButtonStyle=\"textUnderIcon\" index=\"2\" checkable=\"\" text=\"about us\" iconSize=\"large\" visible=\"true\" icon=\"res/aboutus.png\" enabled=\"true\" checked=\"\" parent=\"\" toolTip=\"Chengdu micronucleus technology \" statusTip=\"Chengdu micronucleus technology\" sceneName=\"\" autoRepeat=\"\"/>\n</menu>\n</group>\n</Toolbar>\n<Toolbar id=\"tech.microcore.mainwin.ribbon.toolbar.optionbar\" toolbarstyle=\"optionbar\" index=\"\" text=\"Optionbar \">\n<Action id=\"tech.microcore.mainwin.ribbon.toolbar.optionbar.about\" sceneMode=\"visible\" toolButtonStyle=\"iconOnly\" index=\"6\" checkable=\"false\" text=\"About\" iconSize=\"small\" visible=\"true\" icon=\"res/about.png\" enabled=\"true\" checked=\"false\" parent=\"\" toolTip=\"Display program     information, version number and copyright\" statusTip=\"Display program  information, version number and copyright\" sceneName=\"\" autoRepeat=\"false\"/>\n<Menu id=\"tech.microcore.mainwindow.ribbon.toolbar.optionbar.options\" title=\"Options\" index=\"1\">\n<Menu id=\"tech.microcore.mainwindow.ribbon.toolbar.optionbar.style\" title=\"Style\">\n<Menu id=\"tech.mirocre.mainwin.ribbon.toolbar.optionbar.office2007\" title=\"Office 2007\">\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.07blue\" checkable=\"true\" text=\"Blue\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.07black\" checkable=\"true\" text=\"Black\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.07sliver\" checkable=\"true\" text=\"Sliver\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.07aqua\" checkable=\"true\" text=\"Aqua\" checked=\"true\"/>\n</Menu>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.window7scenic\" checkable=\"true\" text=\"Windows 7 Scenic\" checked=\"true\"/>\n<Menu id=\"tech.mirocre.mainwin.ribbon.toolbar.optionbar.office2010\" title=\"Office 2010\">\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.10blue\" checkable=\"true\" text=\"Blue\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.10black\" checkable=\"true\" text=\"Black\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.10sliver\" checkable=\"true\" text=\"Sliver\" checked=\"true\"/>\n</Menu>\n<Menu id=\"tech.mirocre.mainwin.ribbon.toolbar.optionbar.office2013\" title=\"Office 2013\">\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.13white\" checkable=\"true\" text=\"White\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.13lightgray\" checkable=\"true\" text=\"Light Gray\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.13darkgray\" checkable=\"true\" text=\"Dark Gray\" checked=\"true\"/>\n</Menu>\n<Menu id=\"tech.mirocre.mainwin.ribbon.toolbar.optionbar.office2016\" title=\"Office 2016\">\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.16colorful\" checkable=\"true\" text=\"Colorful\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.16white\" checkable=\"true\" text=\"White\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.16darkgray\" checkable=\"true\" text=\"Dark Gray\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.16black\" checkable=\"true\" text=\"Black\" checked=\"true\"/>\n</Menu>\n</Menu>\n<group id=\"tech.microcore.mainwin.ribbon.optionbar.animationgroup\">\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.animation\" checkable=\"true\" text=\"Animation\" checked=\"true\"/>\n</group>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.titlegroupvisible\" checkable=\"true\" text=\"Title Groups Visible\" checked=\"true\"/>\n<group id=\"tech.microcore.mainwin.ribbon.optionbar.groupfont\">\n<!--<Menu id=\"tech.microcore.mainwin.ribbon.optionbar.font\" title=\"Font\">\r\n                                   <Action id=\"tech.microcore.mainwin.ribbon.optionbar.systemDefault\" text=\"System Default\" checked=\"true\" checkable = \"true\"/>\r\n                                   <group id=\"tech.microcore.mainwin.ribbon.optionbar.fontgroup\">\r\n                                      <Action id=\"tech.microcore.mainwin.ribbon.optionbar.normal\" text=\"Normal\" checked=\"true\" checkable = \"true\"/>\r\n                                      <Action id=\"tech.microcore.mainwin.ribbon.optionbar.large\" text=\"Large\" checked=\"true\" checkable = \"true\"/>\r\n                                      <Action id=\"tech.microcore.mainwin.ribbon.optionbar.extralarge\" text=\"Extra Large\" checked=\"true\" checkable = \"true\"/>\r\n                                   </group>\r\n                                   <Action id=\"tech.microcore.mainwin.ribbon.optionbar.dpiaware\" text=\"DPI Aware(new)\" checked=\"true\" checkable = \"true\"/>\r\n                               </Menu>-->\n</group>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.nativescrollbars\" checkable=\"true\" text=\"Native Scroll Bars(new)\" checked=\"true\"/>\n<Action id=\"tech.microcore.mainwin.ribbon.optionbar.nativedialogs\" checkable=\"true\" text=\"Native Dialogs\" checked=\"true\"/>\n</Menu>\n</Toolbar>\n</ToolBars>\n</Format>\n</ExtData>\n")
+[17:32:51-473][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 8 -> 32
+[17:32:51-474][DEBUG] [ "Actived   " ]	 "tech.microcore.mainwin.core"
+[17:32:51-487][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 8 -> 32
+[17:32:51-488][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 4 -> 8
+[17:32:51-488][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 4 -> 8
+[17:32:51-499][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[17:32:51-857][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-857][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-857][WARN] QPainter::font: Painter not active
+[17:32:51-857][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-857][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-857][WARN] QPainter::font: Painter not active
+[17:32:51-857][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-857][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-857][WARN] QPainter::font: Painter not active
+[17:32:51-857][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-857][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-857][WARN] QPainter::font: Painter not active
+[17:32:51-888][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-888][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-888][WARN] QPainter::font: Painter not active
+[17:32:51-888][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-888][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-888][WARN] QPainter::font: Painter not active
+[17:32:51-894][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Font") "visible" true true true
+[17:32:51-894][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontsize") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-894][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontsize") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:51-915][DEBUG] [Waring ] : Please customize the implementation widget .
+[17:32:51-916][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Font") "visible" true true true
+[17:32:51-916][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontstyle") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-916][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontstyle") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:51-927][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Paragraph") "visible" true true true
+[17:32:51-927][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.indent") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-927][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.indent") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:51-928][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Paragraph") "visible" true true true
+[17:32:51-928][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.border") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-928][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.border") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:51-930][WARN] QPixmap::scaled: Pixmap is a null pixmap
+[17:32:51-954][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-954][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-954][WARN] QPainter::font: Painter not active
+[17:32:51-955][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-955][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-955][WARN] QPainter::font: Painter not active
+[17:32:51-977][WARN] QWidget::paintEngine: Should no longer be called
+[17:32:51-977][WARN] QPainter::begin: Paint device returned engine == 0, type: 1
+[17:32:51-977][WARN] QPainter::font: Painter not active
+[17:32:51-992][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.groupgallery") "" true false true
+[17:32:51-992][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-992][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:51-998][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.groupgallery") "" true false true
+[17:32:51-998][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:51-998][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-104][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.paste") --
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.Copy") --
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.cut") --
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.format") --
+[17:32:52-105][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.clipboard") --
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.widget.colour") --
+[17:32:52-105][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Font") "visible" true true true
+[17:32:52-105][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontsize") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-105][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontsize") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontsize") --
+[17:32:52-105][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Font") "visible" true true true
+[17:32:52-105][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontstyle") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-105][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontstyle") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-105][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.fontstyle") --
+[17:32:52-106][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Font") --
+[17:32:52-106][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Paragraph") "visible" true true true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.indent") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.indent") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.indent") --
+[17:32:52-106][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Paragraph") "visible" true true true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.border") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.border") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.border") --
+[17:32:52-106][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Paragraph") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.themes") --
+[17:32:52-106][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.groupgallery") "" true false true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.themes") --
+[17:32:52-106][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.groupgallery") "" true false true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true
+[17:32:52-106][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style") QVariant(Invalid) QVariant(bool, true) QVariant(bool, true) true ---e
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.gallery.style") --
+[17:32:52-106][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.groupgallery") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.menu.find") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.replace") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.menu.choice") --
+[17:32:52-106][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.edit") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.action.undo") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.action.redo") --
+[17:32:52-106][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.action.redo1") --
+[17:32:52-106][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.dynamicLayout") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.widget.text") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.widget.player") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.widget.dynamic") --
+[17:32:52-135][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.Samkoon") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.south") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.north") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.widget.property") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.east") --
+[17:32:52-135][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.west") --
+[17:32:52-135][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.dock") --
+[17:32:52-139][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.tools") "visible" true true true
+[17:32:52-139][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools") QVariant(QString, "visible") QVariant(bool, true) QVariant(QString, "true") true
+[17:32:52-139][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools") QVariant(QString, "visible") QVariant(bool, true) QVariant(int, 1) true ---e
+[17:32:52-147][DEBUG] [jz]b--- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.tools") "visible" true true true
+[17:32:52-147][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools") QVariant(QString, "visible") QVariant(bool, true) QVariant(int, 1) true
+[17:32:52-147][DEBUG] [jz] QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools") QVariant(QString, "visible") QVariant(bool, true) QVariant(int, 1) true ---e
+[17:32:52-147][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.subgroup.outtools") --
+[17:32:52-147][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.tools") --
+[17:32:52-156][WARN] libpng warning: iCCP: known incorrect sRGB profile
+[17:32:52-170][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.widget.company") --
+[17:32:52-170][DEBUG] [jz]g-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.action.technical") --
+[17:32:52-170][DEBUG] [jz]p-- QVariant(QString, "tech.microcore.mainwin.ribbon.toolbar.group.help") --
+[17:32:52-238][DEBUG] PluginManager::Start > "tech.microcore.service.eventadmin" : 32
+[17:32:52-238][DEBUG] PluginManager::Start > "tech.microcore.mainwin.core" : 32
+[17:32:52-238][DEBUG] PluginManager::Start > "tech.microcore.demo.themecharts" : 4
+[17:32:52-238][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 4 -> 8
+[17:32:52-238][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 4 -> 8
+[17:32:52-239][DEBUG] void __thiscall myActivator::start(class ExtensionSystem::PluginContext *) > "tech.microcore.demo.themecharts"
+[17:32:52-239][DEBUG] int __thiscall ShowChartsCallback::active(class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument,class QGenericArgument)
+[17:32:52-288][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 8 -> 32
+[17:32:52-288][DEBUG] [ "Actived   " ]	 "tech.microcore.demo.themecharts"
+[17:32:52-536][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 8 -> 32
+[17:32:52-536][DEBUG] ExtensionData::active > PLUGIN ' "tech.microcore.demo.themecharts" ' Request Start Plugin: "tech.microcore.demo.themecharts"
+[17:32:52-552][DEBUG] PluginManager::Start > "tech.microcore.service.eventadmin" : 32
+[17:32:52-552][DEBUG] PluginManager::Start > "tech.microcore.mainwin.core" : 32
+[17:32:52-552][DEBUG] PluginManager::Start > "tech.microcore.service.propertybrowser" : 4
+[17:32:52-552][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 4 -> 8
+[17:32:52-552][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 4 -> 8
+[17:32:52-575][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 8 -> 32
+[17:32:52-575][DEBUG] [ "Actived   " ]	 "tech.microcore.service.propertybrowser"
+[17:32:52-612][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 8 -> 32
+[17:32:52-612][DEBUG] ExtensionData::active > PLUGIN ' "tech.microcore.service.propertybrowser" ' Request Start Plugin: "tech.microcore.service.propertybrowser"
+[17:32:52-612][DEBUG] ConfigIODBImpl::read() > error,  "No query Unable to fetch row"  file: configiodbimpl.cpp  function: ExtensionSystem::Internal::ConfigIODBImpl::read  line: 207
+[17:32:52-612][DEBUG] ConfigAccessImpl::handleCURDTaskError() > error,  "插件不存在"  file: configaccessimpl.cpp  function: ExtensionSystem::Internal::ConfigAccessImpl::handleCURDTaskError  line: 797
+[17:32:52-613][DEBUG] ConfigIODBImpl::read() > error,  "No query Unable to fetch row"  file: configiodbimpl.cpp  function: ExtensionSystem::Internal::ConfigIODBImpl::read  line: 207
+[17:32:52-613][DEBUG] ConfigAccessImpl::handleCURDTaskError() > error,  "插件不存在"  file: configaccessimpl.cpp  function: ExtensionSystem::Internal::ConfigAccessImpl::handleCURDTaskError  line: 797
+[17:32:52-624][WARN] QStatusBar::insertWidget: Index out of range (10000), appending widget
+[17:32:52-644][WARN] QStatusBar::insertPermanentWidget: Index out of range (0), appending widget
+[17:32:52-657][WARN] QWidget::insertAction: Attempt to insert null action
+[17:32:52-661][WARN] QWindowsWindow::setGeometry: Unable to set geometry 33x22+640+280 on QWidgetWindow/'tech.microcore.mainwin.Ribbon.HelpsWindow'. Resulting geometry:  120x22+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215).
+[17:32:52-667][WARN] QStatusBar::insertWidget: Index out of range (10000), appending widget
+[17:32:52-681][WARN] QWindowsWindow::setGeometry: Unable to set geometry 108x20+640+280 on QWidgetWindow/'tech.microcore.mainwin.Ribbon.progressbarWindow'. Resulting geometry:  120x20+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 108x20, maximum size: 16777215x16777215).
+[17:32:52-686][WARN] QStatusBar::insertPermanentWidget: Index out of range (0), appending widget
+[17:32:52-694][WARN] QWidget::setMinimumSize: (tech.microcore.mainwin.Ribbon.widget/WidgetMock) Negative sizes (-1,-1) are not possible
+[17:32:52-707][WARN] QStatusBar::insertWidget: Index out of range (10000), appending widget
+[17:32:52-722][WARN] QWindowsWindow::setGeometry: Unable to set geometry 28x24+640+280 on QWidgetWindow/'PushButtonMockClassWindow'. Resulting geometry:  120x24+640+280 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215).
+[17:32:52-726][WARN] QStatusBar::insertPermanentWidget: Index out of range (0), appending widget
+[17:32:52-736][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 8 -> 32
+[17:32:52-736][DEBUG] [ "Actived   " ]	 "tech.microcore.mainwin.ribbon"
+[17:32:52-807][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 8 -> 32
+[17:32:52-807][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 4 -> 8
+[17:32:52-807][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 4 -> 8
+[17:32:52-808][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 8 -> 32
+[17:32:52-808][DEBUG] [ "Actived   " ]	 "tech.microcore.dstyle.toolboxwidget"
+[17:32:52-817][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 8 -> 32
+[17:32:52-818][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 4 -> 8
+[17:32:52-818][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 4 -> 8
+[17:32:52-819][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 8 -> 32
+[17:32:52-819][DEBUG] [ "Actived   " ]	 "tech.microcore.dstyle.tabwidget"
+[17:32:52-842][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 8 -> 32
+[17:32:52-842][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 4 -> 8
+[17:32:52-842][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 4 -> 8
+[17:32:52-843][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 8 -> 32
+[17:32:52-843][DEBUG] [ "Actived   " ]	 "tech.microcore.dstyle.scrollwidget"
+[17:32:52-849][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 8 -> 32
+[17:32:52-849][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 4 -> 8
+[17:32:52-849][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 4 -> 8
+[17:32:52-849][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 8 -> 32
+[17:32:52-850][DEBUG] [ "Actived   " ]	 "tech.microcore.config.pluginmanager"
+[17:32:52-871][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 8 -> 32
+[17:32:52-872][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 4 -> 8
+[17:32:52-872][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 4 -> 8
+[17:32:52-872][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 8 -> 32
+[17:32:52-872][DEBUG] [ "Actived   " ]	 "tech.microcore.config.optiondialog"
+[17:32:52-892][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 8 -> 32
+[17:32:52-892][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 4 -> 8
+[17:32:52-892][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 4 -> 8
+[17:32:52-893][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 8 -> 32
+[17:32:52-893][DEBUG] [ "Actived   " ]	 "tech.microcore.config.shortcutmanager"
+[17:32:52-915][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 8 -> 32
+[17:32:52-915][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 4 -> 8
+[17:32:52-915][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 4 -> 8
+[17:32:52-915][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 8 -> 32
+[17:32:52-915][DEBUG] [ "Actived   " ]	 "tech.microcore.config.scenemanager"
+[17:32:52-940][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 8 -> 32
+[17:32:52-940][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 4 -> 8
+[17:32:52-940][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 4 -> 8
+[17:32:52-941][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 8 -> 32
+[17:32:52-941][DEBUG] [ "Actived   " ]	 "tech.microcore.config.general"
+[17:32:52-962][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 8 -> 32
+[17:32:53-953][DEBUG] [DockView] 1 Qt::DockWidgetArea(LeftDockWidgetArea)
+[17:32:54-131][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 32 -> 16
+[17:32:54-131][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 32 -> 16
+[17:32:54-132][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.service.propertybrowser.property"
+[17:32:54-132][DEBUG] PLUGIN: "tech.microcore.service.propertybrowser" - state: 16 -> 4
+[17:32:54-132][DEBUG] [ "Resolved  " ]	 "tech.microcore.service.propertybrowser"
+[17:32:54-132][DEBUG] PluginChanged: "tech.microcore.service.propertybrowser"  - state: 16 -> 4
+[17:32:54-132][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 32 -> 16
+[17:32:54-132][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 32 -> 16
+[17:32:54-132][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.config.general.startup"
+[17:32:54-133][DEBUG] PLUGIN: "tech.microcore.config.general" - state: 16 -> 4
+[17:32:54-133][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.general"
+[17:32:54-137][DEBUG] PluginChanged: "tech.microcore.config.general"  - state: 16 -> 4
+[17:32:54-137][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 32 -> 16
+[17:32:54-137][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 32 -> 16
+[17:32:54-137][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.config.scenemanager.action.ShowSceneManagertyWidget.page1"
+[17:32:54-138][DEBUG] PLUGIN: "tech.microcore.config.scenemanager" - state: 16 -> 4
+[17:32:54-138][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.scenemanager"
+[17:32:54-140][DEBUG] PluginChanged: "tech.microcore.config.scenemanager"  - state: 16 -> 4
+[17:32:54-140][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 32 -> 16
+[17:32:54-140][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 32 -> 16
+[17:32:54-140][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.config.shortcutmanager.action.ShowShortcutWidget.page1"
+[17:32:54-141][DEBUG] PLUGIN: "tech.microcore.config.shortcutmanager" - state: 16 -> 4
+[17:32:54-141][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.shortcutmanager"
+[17:32:54-142][DEBUG] PluginChanged: "tech.microcore.config.shortcutmanager"  - state: 16 -> 4
+[17:32:54-143][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 32 -> 16
+[17:32:54-143][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 32 -> 16
+[17:32:54-143][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.config.optiondialog.show"
+[17:32:54-143][DEBUG] PLUGIN: "tech.microcore.config.optiondialog" - state: 16 -> 4
+[17:32:54-143][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.optiondialog"
+[17:32:54-145][DEBUG] PluginChanged: "tech.microcore.config.optiondialog"  - state: 16 -> 4
+[17:32:54-145][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 32 -> 16
+[17:32:54-146][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 32 -> 16
+[17:32:54-146][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.pluginmanager.action.ShowPluginManagerDialog"
+[17:32:54-146][DEBUG] PLUGIN: "tech.microcore.config.pluginmanager" - state: 16 -> 4
+[17:32:54-146][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.pluginmanager"
+[17:32:54-147][DEBUG] PluginChanged: "tech.microcore.config.pluginmanager"  - state: 16 -> 4
+[17:32:54-147][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 32 -> 16
+[17:32:54-147][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 32 -> 16
+[17:32:54-147][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.demo.themecharts.showchartsview"
+[17:32:54-147][DEBUG] void __thiscall myActivator::stop(class ExtensionSystem::PluginContext *) > "tech.microcore.demo.themecharts"
+[17:32:54-147][DEBUG] PLUGIN: "tech.microcore.demo.themecharts" - state: 16 -> 4
+[17:32:54-147][DEBUG] [ "Resolved  " ]	 "tech.microcore.demo.themecharts"
+[17:32:54-148][DEBUG] PluginChanged: "tech.microcore.demo.themecharts"  - state: 16 -> 4
+[17:32:54-148][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 32 -> 16
+[17:32:54-148][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 32 -> 16
+[17:32:54-148][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.dstyle.scrollwidget.dynamicLayout.UI"
+[17:32:54-148][DEBUG] PLUGIN: "tech.microcore.dstyle.scrollwidget" - state: 16 -> 4
+[17:32:54-148][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.scrollwidget"
+[17:32:54-148][DEBUG] PluginChanged: "tech.microcore.dstyle.scrollwidget"  - state: 16 -> 4
+[17:32:54-148][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 32 -> 16
+[17:32:54-148][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 32 -> 16
+[17:32:54-148][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.dstyle.tabwidget.dynamicLayout.UI"
+[17:32:54-149][DEBUG] PLUGIN: "tech.microcore.dstyle.tabwidget" - state: 16 -> 4
+[17:32:54-149][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.tabwidget"
+[17:32:54-150][DEBUG] PluginChanged: "tech.microcore.dstyle.tabwidget"  - state: 16 -> 4
+[17:32:54-150][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 32 -> 16
+[17:32:54-150][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 32 -> 16
+[17:32:54-150][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.dstyle.toolboxwidget.dynamicLayout.UI"
+[17:32:54-150][DEBUG] PLUGIN: "tech.microcore.dstyle.toolboxwidget" - state: 16 -> 4
+[17:32:54-150][DEBUG] [ "Resolved  " ]	 "tech.microcore.dstyle.toolboxwidget"
+[17:32:54-150][DEBUG] PluginChanged: "tech.microcore.dstyle.toolboxwidget"  - state: 16 -> 4
+[17:32:54-151][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 32 -> 16
+[17:32:54-151][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 32 -> 16
+[17:32:54-151][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.customizeribbon"
+[17:32:54-151][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.quickacessbar"
+[17:32:54-151][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.nativedialogs"
+[17:32:54-152][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.nativescrollbars"
+[17:32:54-152][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.dpiaware"
+[17:32:54-152][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.extralarge"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.large"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.normal"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.systemDefault"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.titlegroupvisible"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.animation"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.16black"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.16darkgray"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.16white"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.16colorful"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.13darkgray"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.13lightgray"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.13white"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.10sliver"
+[17:32:54-153][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.10black"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.10blue"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.window7scenic"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.07aqua"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.07sliver"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.07black"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.optionbar.07blue"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.Ribbon.widget"
+[17:32:54-154][DEBUG] [ExtensionHandler] > unregister: "tech.microcore.mainwin.ribbon.toolbar.optionbar.about"
+[17:32:54-154][DEBUG] PLUGIN: "tech.microcore.mainwin.ribbon" - state: 16 -> 4
+[17:32:54-154][DEBUG] [ "Resolved  " ]	 "tech.microcore.mainwin.ribbon"
+[17:32:54-156][DEBUG] PluginChanged: "tech.microcore.mainwin.ribbon"  - state: 16 -> 4
+[17:32:54-156][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 32 -> 16
+[17:32:54-156][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 32 -> 16
+[17:32:54-157][DEBUG] PLUGIN: "tech.microcore.mainwin.core" - state: 16 -> 4
+[17:32:54-157][DEBUG] [ "Resolved  " ]	 "tech.microcore.mainwin.core"
+[17:32:54-158][DEBUG] PluginChanged: "tech.microcore.mainwin.core"  - state: 16 -> 4
+[17:32:54-158][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 32 -> 16
+[17:32:54-158][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 32 -> 16
+[17:32:54-158][DEBUG] PLUGIN: "tech.microcore.service.eventadmin" - state: 16 -> 4
+[17:32:54-159][DEBUG] [ "Resolved  " ]	 "tech.microcore.service.eventadmin"
+[17:32:54-159][DEBUG] PluginChanged: "tech.microcore.service.eventadmin"  - state: 16 -> 4
+[17:32:54-159][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 32 -> 16
+[17:32:54-159][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 32 -> 16
+[17:32:54-266][DEBUG] PLUGIN: "tech.microcore.config.configureadmin" - state: 16 -> 4
+[17:32:54-266][DEBUG] [ "Resolved  " ]	 "tech.microcore.config.configureadmin"
+[17:32:54-267][DEBUG] PluginChanged: "tech.microcore.config.configureadmin"  - state: 16 -> 4
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.service.propertybrowser, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.general, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.scenemanager, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.shortcutmanager, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.optiondialog, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.pluginmanager, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.demo.themecharts, that is not actived"
+[17:32:54-268][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.scrollwidget, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.tabwidget, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.toolboxwidget, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.mainwin.ribbon, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.mainwin.core, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.service.eventadmin, that is not actived"
+[17:32:54-269][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.configureadmin, that is not actived"
+[17:32:54-292][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.service.propertybrowser, that is not actived"
+[17:32:54-292][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.general, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.scenemanager, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.shortcutmanager, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.optiondialog, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.pluginmanager, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.demo.themecharts, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.scrollwidget, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.tabwidget, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.dstyle.toolboxwidget, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.mainwin.ribbon, that is not actived"
+[17:32:54-293][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.mainwin.core, that is not actived"
+[17:32:54-294][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.service.eventadmin, that is not actived"
+[17:32:54-294][DEBUG] PluginManager::Error > "Cannot stop plugin: tech.microcore.config.configureadmin, that is not actived"
